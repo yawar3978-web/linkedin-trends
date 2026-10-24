@@ -1,5 +1,5 @@
 {
-  "offset": 877204118,
+  "offset": 877204120,
   "posts": {
     "test-approval-1": {
       "title": "Test draft",
@@ -17,7 +17,8 @@
       "title": "5 Best GitHub Repositories for AI Agent Skills",
       "text": "How do AI coding agents actually get better at planning, debugging, and reviewing software?\n\nI recently read about five popular GitHub repositories designed specifically for AI agent skills. These collections offer frameworks that help coding agents plan builds, run tests, debug errors, review code, and construct better overall software.\n\nWhy it matters: Knowing how to give agents distinct functional skills helps us understand where software automation is heading.\n\nWhat I want to explore next: How these skill collections structure their logic to help agents debug and review code more effectively.\n\nHave you come across any useful GitHub repositories for AI agent skills lately?\n\n#DataScience #AIAgents #GitHub",
       "link": "https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills",
-      "status": "pending"
+      "status": "posted",
+      "linkedin_id": "urn:li:share:7519587554338267136"
     },
     "f5b2f17975": {
       "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
