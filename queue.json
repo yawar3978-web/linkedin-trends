@@ -26,6 +26,18 @@
       "link": "https://www.kdnuggets.com/claude-haiku-5-5-whats-new-and-how-to-use-it-for-fast-cheap-ai-workflows",
       "status": "posted",
       "linkedin_id": "urn:li:share:7519551872639188992"
+    },
+    "5f8c6709c9": {
+      "title": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+      "text": "What happens when an AI tool breaks, but the monitoring dashboard stays green?\n\nI came across a Towards Data Science article about agentic AI in production that highlights this exact problem. When a tool breaks, an agent can just keep going. It will write a confident answer from nothing, even while the dashboard stays green.\n\nWhy it matters: Standard system dashboards can easily mislead us if an agent masks internal tool failures behind confident responses.\n\nWhat I want to explore next: Methods to detect when an agent is generating answers from nothing after a silent tool error.\n\nHow do you usually catch hidden errors in agentic workflows?\n\n#DataScience #AgenticAI #MachineLearning",
+      "link": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/",
+      "status": "pending"
+    },
+    "2a9620703e": {
+      "title": "How to Add Guardrails to a Local LLM Agent",
+      "text": "How do you actually set up guardrails when running a local LLM agent?\n\nA recent guide on Towards Data Science breaks down a practical approach to adding guardrails to local agent setups. It outlines a hands-on method using Gemma 4, Ollama, and the OpenAI Agents SDK together to control agent behavior locally.\n\nWhy it matters: Knowing how to implement guardrails locally is essential for building safer, more reliable AI workflows without relying on external cloud APIs.\n\nWhat I want to explore next: How the OpenAI Agents SDK interacts with local frameworks like Ollama to manage model outputs.\n\nAre you currently adding guardrails to your local LLM setups, or sticking to cloud platforms?\n\n#DataScience #LLM #MachineLearning",
+      "link": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/",
+      "status": "pending"
     }
   }
 }
