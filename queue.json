@@ -1,5 +1,5 @@
 {
-  "offset": 877204120,
+  "offset": 877204126,
   "posts": {
     "test-approval-1": {
       "title": "Test draft",
@@ -31,7 +31,8 @@
       "title": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
       "text": "What happens when an AI tool breaks, but the monitoring dashboard stays green?\n\nI came across a Towards Data Science article about agentic AI in production that highlights this exact problem. When a tool breaks, an agent can just keep going. It will write a confident answer from nothing, even while the dashboard stays green.\n\nWhy it matters: Standard system dashboards can easily mislead us if an agent masks internal tool failures behind confident responses.\n\nWhat I want to explore next: Methods to detect when an agent is generating answers from nothing after a silent tool error.\n\nHow do you usually catch hidden errors in agentic workflows?\n\n#DataScience #AgenticAI #MachineLearning",
       "link": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/",
-      "status": "pending"
+      "status": "posted",
+      "linkedin_id": "urn:li:share:7520456913319530496"
     },
     "2a9620703e": {
       "title": "How to Add Guardrails to a Local LLM Agent",
