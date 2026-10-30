@@ -1,5 +1,5 @@
 {
-  "offset": 877204126,
+  "offset": 877204130,
   "posts": {
     "test-approval-1": {
       "title": "Test draft",
@@ -38,7 +38,8 @@
       "title": "How to Add Guardrails to a Local LLM Agent",
       "text": "How do you actually set up guardrails when running a local LLM agent?\n\nA recent guide on Towards Data Science breaks down a practical approach to adding guardrails to local agent setups. It outlines a hands-on method using Gemma 4, Ollama, and the OpenAI Agents SDK together to control agent behavior locally.\n\nWhy it matters: Knowing how to implement guardrails locally is essential for building safer, more reliable AI workflows without relying on external cloud APIs.\n\nWhat I want to explore next: How the OpenAI Agents SDK interacts with local frameworks like Ollama to manage model outputs.\n\nAre you currently adding guardrails to your local LLM setups, or sticking to cloud platforms?\n\n#DataScience #LLM #MachineLearning",
       "link": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/",
-      "status": "pending"
+      "status": "posted",
+      "linkedin_id": "urn:li:share:7521973141263466496"
     }
   }
 }
