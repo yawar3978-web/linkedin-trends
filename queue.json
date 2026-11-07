@@ -1,5 +1,5 @@
 {
-  "offset": 877204130,
+  "offset": 877204149,
   "posts": {
     "test-approval-1": {
       "title": "Test draft",
@@ -69,13 +69,15 @@
       "title": "Give Your Python AI Agent Persistent Memory with One JSON File",
       "text": "Can an AI agent remember past chats across restarts using just three Python classes and a single JSON file?\n\nA recent article on Towards Data Science breaks down this exact setup. By combining three Python classes, an OpenRouter key, and gpt-4.1-mini, the author gives an agent conversation recall that survives restarts. The system also equips the agent with basic tools, including a calculator and a stub web search.\n\nWhy it matters: It shows how simple file-based state management can solve memory persistence in Python projects without needing complex external databases.\n\nWhat I want to explore next: how lightweight JSON storage performs as conversation histories grow longer over time.\n\nHow do you usually handle persistent memory when building simple agents?\n\n#DataScience #Python #AIAgents",
       "link": "https://towardsdatascience.com/give-your-python-ai-agent-persistent-memory-with-one-json-file/",
-      "status": "pending"
+      "status": "posted",
+      "linkedin_id": "urn:li:share:7524941750025654272"
     },
     "f4c929ba74": {
       "title": "How to Give Your AI Agent Memory",
       "text": "How do you keep an AI agent from forgetting everything the moment a session ends?\n\nI came across a piece explaining how to give AI agents long-term memory across different sessions. It covers using the OpenAI Agents SDK, Mem0, and MCP so agents can retain context, user preferences, and important information over time.\n\nWhy it matters: Understanding how agents store context across sessions is essential for moving beyond basic single-prompt setups.\n\nWhat I want to explore next: How tools like Mem0 and MCP handle context retention in real-world workflows.\n\nHave you looked into long-term memory setups for AI agents yet?\n\n#DataScience #AIAgents #MachineLearning",
       "link": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
-      "status": "pending"
+      "status": "posted",
+      "linkedin_id": "urn:li:share:7524941756740702208"
     }
   }
 }
