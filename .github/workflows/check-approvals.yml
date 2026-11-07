@@ -2,7 +2,7 @@ name: check-approvals
 
 on:
   schedule:
-    - cron: "*/7,22,37,52 3-17 * * *"   # every 30 min, 8:30 AM to 11:30 PM IST
+    - cron: "*/7,22,37,52 * * * *"   # every 30 min, 8:30 AM to 11:30 PM IST
   workflow_dispatch:
 
 permissions:
