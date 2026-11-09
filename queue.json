@@ -78,6 +78,12 @@
       "link": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
       "status": "posted",
       "linkedin_id": "urn:li:share:7524941756740702208"
+    },
+    "1a9e6fe7a3": {
+      "title": "How to Build Multi-Agent Systems with the OpenAI Agents SDK",
+      "text": "Can the same core building blocks power both an EV purchase adviser and a customer support agent?\n\nA recent Towards Data Science article demonstrates how to build both tools in Python using the OpenAI Agents SDK. It highlights how different system structures—including fan-out, pipelines, hierarchies, and swarms—rely on these same underlying components to manage multi-agent tasks.\n\nWhy it matters: Learning how these architectural patterns reuse basic blocks makes it easier to design modular, scalable AI workflows.\n\nWhat I want to explore next: How a swarm architecture behaves compared to a strict hierarchy when handling complex tasks.\n\nWhich of these multi-agent patterns have you used most in your own work?\n\n#DataScience #Python #AI",
+      "link": "https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/",
+      "status": "pending"
     }
   }
 }
