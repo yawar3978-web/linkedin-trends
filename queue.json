@@ -85,6 +85,24 @@
       "link": "https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/",
       "status": "posted",
       "linkedin_id": "urn:li:share:7526172461843828736"
+    },
+    "76dcca50a7": {
+      "title": "AI Assistant vs. Copilot vs. Agent, and When to Use Each",
+      "text": "Why are over 40% of agentic AI projects expected to get cancelled?\n\nA recent article uses a palace-hotel wedding week to show where AI assistants, copilots, agents, and orchestration fit. It breaks down the practical differences between each approach and explains why so many autonomous setups are at risk of failing.\n\nWhy it matters: Understanding these distinctions helps us select the right level of automation instead of over-engineering projects with unnecessary agent systems.\n\nWhat I want to explore next: How system orchestration works when combining multiple AI tools into a single workflow.\n\nHave you seen projects push for autonomous agents when a basic copilot or assistant would work better?\n\n#DataScience #AI #TechTrends",
+      "link": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/",
+      "status": "pending"
+    },
+    "f90e58f0ab": {
+      "title": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+      "text": "Explicit error logs caught only about 1% of AI agent failures in data gathered from over 100 agents.\n\nInstead of crashing, most agents fail through silent drift. The data showed that quality and token alerts acted as early warning signals for 38% of agents. Because traditional error tracking misses these issues, monitoring should focus on quality, cost, and latency first.\n\nWhy it matters: Building reliable systems requires tracking output quality and resource usage rather than just waiting for code to throw an exception.\n\nWhat I want to explore next: Practical techniques for tracking token alerts and latency metrics in continuous workflows.\n\nHow are you monitoring quality and silent drift in your data projects?\n\n#DataScience #MachineLearning #AIAgents",
+      "link": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/",
+      "status": "pending"
+    },
+    "a5050c1bc0": {
+      "title": "What AI Agents Speed Up in PhD Research, and What They Can't",
+      "text": "Can AI agents speed up every part of research, or do they hit a hard wall?\n\nA PhD student in ML and ecology looked at what AI agents can actually accelerate in research. While these tools lead to faster code, experiments, and drafts, they cannot fix data with a backstory. The author also shared three predictions for how research labs will change as these tools evolve.\n\nWhy it matters: Speeding up execution doesn't automatically solve complex data context issues.\n\nWhat I want to explore next: How to better account for data with a backstory when designing data pipelines.\n\nWhere do you draw the line between what tasks to automate and what needs manual oversight?\n\n#DataScience #MachineLearning #AIAgents",
+      "link": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/",
+      "status": "pending"
     }
   }
 }
