@@ -1,5 +1,5 @@
 {
-  "offset": 877204157,
+  "offset": 877204173,
   "posts": {
     "test-approval-1": {
       "title": "Test draft",
@@ -102,7 +102,8 @@
       "title": "What AI Agents Speed Up in PhD Research, and What They Can't",
       "text": "Can AI agents speed up every part of research, or do they hit a hard wall?\n\nA PhD student in ML and ecology looked at what AI agents can actually accelerate in research. While these tools lead to faster code, experiments, and drafts, they cannot fix data with a backstory. The author also shared three predictions for how research labs will change as these tools evolve.\n\nWhy it matters: Speeding up execution doesn't automatically solve complex data context issues.\n\nWhat I want to explore next: How to better account for data with a backstory when designing data pipelines.\n\nWhere do you draw the line between what tasks to automate and what needs manual oversight?\n\n#DataScience #MachineLearning #AIAgents",
       "link": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/",
-      "status": "pending"
+      "status": "posted",
+      "linkedin_id": "urn:li:share:7529293555312467968"
     }
   }
 }
